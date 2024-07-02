@@ -1,0 +1,16 @@
+form {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 5em;
+}
+
+input {
+  height: 20px;
+  width: 20em;
+  padding-left: 5px;
+}
+
+.sub-btn {
+  padding: 3px 5px;
+} 

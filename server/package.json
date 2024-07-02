@@ -1,0 +1,22 @@
+{
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon src/server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "email",
+    "mern",
+    "backend",
+    "email verification",
+    "email validation"
+  ],
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.14",
+    "nodemon": "^3.1.4"
+  }
+}
